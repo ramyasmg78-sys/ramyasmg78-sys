@@ -13,5 +13,8 @@ I'm
 ## My Projects
 [Power BI Portfolio](https://github.com/ramyasmg78-sys/PowerBI-Portfolio)
 
+## Let's Connect
+[Email](ramyasmg78@gmail.com)
+
 
 
