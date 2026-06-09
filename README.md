@@ -11,6 +11,7 @@ I'm
 * Microsoft dynamics-365
 
 ## My Projects
-[Power BI Portfolio]([)
+[Power BI Portfolio](https://github.com/ramyasmg78-sys/PowerBI-Portfolio)
+
 
 
